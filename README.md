@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">🔭 Working on AI-based deepfake & spam mail detection  <br>🎓 B.Tech CSE @ HIT Kolkata (2024–2027)  <br>📜 Diploma in Electronics & Instrumentation (2019–2024)  <br>✨ Reporting security bugs since 2023  <br>🌱 Learning cloud security, OAuth, Red teaming & AI/ML  <br>🎯 Active CTF player and bug bounty hunter</h5>
+<h4 align="left">🔭 Working on AI-based deepfake & spam mail detection  <br>🎓 B.Tech CSE @ HIT Kolkata (2024–2027)  <br>📜 Diploma in Electronics & Instrumentation (2019–2024)  <br>✨ Reporting security bugs since 2023  <br>🌱 Learning cloud security, OAuth, Red teaming & AI/ML  <br>🎯 Active CTF player and bug bounty hunter</h4>
 
 ###
 
@@ -71,9 +71,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xjyotirmoy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xjyotirmoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=0xjyotirmoy&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xjyotirmoy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xjyotirmoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=0xjyotirmoy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
