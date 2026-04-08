@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">🔭 Working on AI-based deepfake & spam mail detection  <br>🎓 B.Tech CSE @ HIT Kolkata (2024–2027)  <br>📜 Diploma in Electronics & Instrumentation (2019–2024)  <br>✨ Reporting security bugs since 2023  <br>🌱 Learning cloud security, OAuth, Red teaming & AI/ML  <br>🎯 Active CTF player and bug bounty hunter</h4>
+<h4 align="left">🔭 Working on AI-based deepfake & spam mail detection  <br>🎓 B.Tech CSE @ HIT Kolkata (2024–2027)  <br>📜 Diploma in Electronics & Instrumentation (2021–2024)  <br>✨ Reporting security bugs since 2023  <br>🌱 Learning cloud security, OAuth, Red teaming & AI/ML  <br>🎯 Active CTF player and bug bounty hunter</h4>
 
 ###
 
