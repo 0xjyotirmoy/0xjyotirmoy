@@ -6,9 +6,7 @@
 
 <h3 align="center"><code>jyotirmoy@security ~ $ ./whoami.sh</code></h3>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ```
 ┌─[ neofetch ]───────────────────────────
@@ -22,8 +20,7 @@
 └─────────────────────────────────────────
 ```
 
-</td>
-<td width="50%" valign="top">
+</div>
 
 **Profile Summary**
 
@@ -35,10 +32,6 @@ Final-year Computer Science undergraduate specializing in security research, vul
 - Identified critical security vulnerabilities during independent bug bounty research on Lexzur, including exposed authentication credentials and cloud secrets; submitted a responsible disclosure report
 - Ranked 59th of participants (650 points) in CloudSEK's Hiring CTF 2026, solving 4 of 5 challenges — [writeup](https://medium.com/@jyotirmoykarmakar/from-lfi-to-internal-grafana-breaking-down-cloudseks-hiring-ctf-2026-fae02b30af9b)
 - Currently preparing for the ACPT certification (Altered Security)
-
-</td>
-</tr>
-</table>
 
 <h3 align="center"><code>jyotirmoy@security ~ $ ./experience.sh</code></h3>
 
